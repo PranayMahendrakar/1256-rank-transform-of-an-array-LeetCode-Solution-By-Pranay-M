@@ -5,3 +5,4 @@
 - [2026-03-22T10:09:30Z] refactor: clean up unused imports
 - [2026-03-22T15:15:46Z] feat: add helper utility function
 - [2026-03-22T16:56:01Z] perf: optimize loop for better performance
+- [2026-03-22T21:41:28Z] docs: improve inline documentation

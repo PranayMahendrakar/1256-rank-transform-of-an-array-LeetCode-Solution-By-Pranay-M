@@ -3,3 +3,4 @@
 - [2026-03-22T17:13:01Z] fix: resolve edge case in input validation
 - [2026-03-22T16:07:45Z] chore: remove deprecated API calls
 - [2026-03-22T10:09:30Z] refactor: clean up unused imports
+- [2026-03-22T15:15:46Z] feat: add helper utility function
